@@ -1,8 +1,8 @@
-# Exploring GitHub Copilot: A Developer's Journey
+# Exploring GitHub Copilot: A Junior Developer's Journey
 
 >***By Alana Barrett-Frew, Version 1 Associate Consultant***
 
-- [Exploring GitHub Copilot: A Developer's Journey](#exploring-github-copilot-a-developers-journey)
+- [Exploring GitHub Copilot: A Junior Developer's Journey](#exploring-github-copilot-a-junior-developers-journey)
   - [Introduction](#introduction)
   - [What can GitHub Copilot do?](#what-can-github-copilot-do)
   - [Insights and Learnings](#insights-and-learnings)
